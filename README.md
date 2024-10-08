@@ -1,4 +1,4 @@
-<h1>MOVIE RECOMMENDER SYSTEM</h1>
+<h1 style="text-weight:bold">MOVIE RECOMMENDER SYSTEM</h1>
 
 This project involves developing a movie recommendation system using Python and Streamlit. 
 The goal is to create an interactive web application that helps users discover new movies based on their preferences.
