@@ -45,11 +45,13 @@ To set up the project locally, follow these steps:
 
 ---
 
-## Contributing
- - Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request.
+
 
 
 <img src="./ss/1.png">
 
 <img src="./ss/2.png">
 <img src="./ss/3.png">
+
+## Contributing
+ - Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request.
